@@ -4,7 +4,7 @@ def fizzbuzz(value)
   else if value % 3 == 0
     "Fizz"
   else if value % 5 == 0
-    puts "Buzz"
+    "Buzz"
   else 
-    return nil
+    nil
 end
