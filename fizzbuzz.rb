@@ -1,5 +1,6 @@
 def fizzbuzz(value)
-  if value % 3 == 0 
+  if value % 3 == 0
+    ""Fizz 
   if (value % 3 == 0 && value % 5 == 0)
     "FizzBuzz"
   else if value % 3 == 0
