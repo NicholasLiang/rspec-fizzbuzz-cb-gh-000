@@ -1,5 +1,5 @@
 def fizzbuzz(value)
-  if value % 3 && value % 5
+  if value % 3 == 0 && value % 5
     puts "FizzBuzz"
   else if !(value % 3)
     puts "Fizz"
