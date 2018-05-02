@@ -5,7 +5,8 @@ def fizzbuzz(value)
     puts "Fizz"
   else if !(value % 5)
     puts "Buzz"
-  else   
+  else 
+    puts
 end
 
 
