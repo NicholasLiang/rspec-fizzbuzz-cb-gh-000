@@ -1,7 +1,7 @@
 def fizzbuzz(value)
   if value % 3 == 0
     puts "Fizz"
-  else if 
+  else if value % 5 == 0
 end
 
 
