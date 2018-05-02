@@ -1,1 +1,2 @@
-fizzbuzz(value)
+def fizzbuzz(value)
+end
