@@ -6,7 +6,7 @@ def fizzbuzz(value)
   else if !(value % 5)
     puts "Buzz"
   else 
-    puts
+    return nil
 end
 
 
