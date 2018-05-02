@@ -2,6 +2,7 @@ def fizzbuzz(value)
   if (value % 3 && value % 5)
     puts "FizzBuzz"
   else if !(value % 3)
+    puts "Fizz"
     
 end
 
